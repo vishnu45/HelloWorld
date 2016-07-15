@@ -1,1 +1,3 @@
 Feature from master branch
+
+Feature by new branch.
